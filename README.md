@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Rode
 
-Full-Stack Developer in training focused on building
+Backend Developer in training focused on building
 scalable web applications using modern technologies.
 
 🚧 Currently developing a full-stack project while

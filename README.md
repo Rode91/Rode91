@@ -25,7 +25,7 @@ agile development, and DevOps practices.
 
 ## 👋 Hola, soy Rode
 
-Desarrolladora Full-Stack en formación enfocada en la
+Desarrolladora backend en formación enfocada en la
 construcción de aplicaciones web escalables usando
 tecnologías modernas.
 
